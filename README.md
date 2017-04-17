@@ -1,4 +1,4 @@
-# Snap To Layer Sample for WinForms
+Snap To Layer Sample for WinForms
 
 ### Description
 
